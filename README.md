@@ -20,7 +20,7 @@ API RESTful para e-commerce desenvolvida como projeto de um curso introdutório 
 
 ```bash
 # Clone o repositório
-git clone <url-do-repositorio>
+git clone <[url-do-repositorio](https://github.com/MiguelPerino/python-flask-introductory)>
 cd python-flask-introductory-main
 
 # Crie e ative um ambiente virtual
